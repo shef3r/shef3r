@@ -31,7 +31,7 @@
 <p align=center><b>featured projects:</b>
 <br><br>
 <p>
-<h2 align=center><a href="/Translate">translate</a></h3><br>
+<h2 align=center><a href="https://github.com/shef3r/Translate">translate</a></h3><br>
 <img align=right width=200 src="https://github.com/shef3r/Translate/blob/uwp-rewrite/Assets/SmallTile.scale-400.png?raw=true">
 the new revision of the quick and native Google Translate client for Windows 11 and 10 is coming. Translate text quickly within the app, using the always-on-top overlay or from the tray icon and customize every aspect to your liking - from text size to font family.<br><br><br><br><br><br>
 </p>

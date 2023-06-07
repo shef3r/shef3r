@@ -38,7 +38,7 @@ the new revision of the quick and native Google Translate client for Windows 11 
 <p>
 <h2 align=center><a>unnamed weather app</a></h3><br>
 <img align=right width=200 src="https://em-content.zobj.net/source/microsoft-teams/337/question-mark_2753.png">
-something new is coming - a fluent, native Windows weather app that will definitely be able to replace the mess that is the current built-in one. (collab with @itsWindows11 and @FireCubeStudios)
+something new is coming - a fluent, native Windows weather app that will definitely be able to replace the mess that is the current built-in one. (collab with <a href="https://github.com/itsWindows11"> @itsWindows11 </a> and <a href="https://github.com/FireCubeStudios">@FireCubeStudios</a>)
 </p>
 
 </p>

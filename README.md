@@ -10,7 +10,7 @@
 
 I make UWP apps for Windows and Flutter mobile apps. I also dig into web stuff - mostly Svelte and pure HTML/CSS/JS.
 
-- ⚡  Created Taskie, [Transhef](https://github.com/shef3r/Transhef), [ferrpad](https://github.com/shef3r/ferrpad), [UWStats](https://github.com/shef3r/UWStats) and its web counterpart - [UWebStats](https://github.com/shef3r/UWebStats)
+- ⚡  Created Taskie, [Transhef](https://github.com/shef3r/Transhef), [ferrpad](https://github.com/shef3r/ferrpad) and [UWStats](https://github.com/shef3r/UWStats)
 - 🫂  Contributor for popular repositiories, incl. [Ambie](https://github.com/jenius-apps/ambie)
 - 💭  Let's get to know each other.
 <br>

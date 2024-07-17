@@ -17,6 +17,6 @@ I make UWP apps for Windows and Flutter mobile apps. I also dig into web stuff -
 <div align=center>🫶
 <br>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=shef3r">
+<img src="https://github.com/shef3r/shef3r/blob/main/gh.png?raw=true" style="border-radius:4px;">
 
 </div>

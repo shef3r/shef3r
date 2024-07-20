@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-<h3> 🧑‍🍳 Bruno | 👤 16yo  | 🌏 Central Poland </h3> 
+<h3>💻 Bruno | 👤 16yo  | 🌏 Central Poland </h3> 
 </div>
 
 ### About me 
 
-I make UWP apps for Windows and Flutter mobile apps. I also dig into web stuff - mostly Svelte and pure HTML/CSS/JS.
+I make apps with UWP and Flutter. I also dig into web stuff - mostly Svelte. Part of [REFRACT](https://github.com/TheRefractCo)!
 
 - ⚡  Created Taskie, [Transhef](https://github.com/shef3r/Transhef), [ferrpad](https://github.com/shef3r/ferrpad) and [UWStats](https://github.com/shef3r/UWStats)
 - 🫂  Contributor for popular repositiories, incl. [Ambie](https://github.com/jenius-apps/ambie)

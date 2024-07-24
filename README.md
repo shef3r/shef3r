@@ -8,7 +8,7 @@
 
 ### About me 
 
-I make apps with UWP and Flutter. I also dig into web stuff - mostly Svelte. Part of [REFRACT](https://github.com/TheRefractCo)!
+I make apps with UWP and Flutter. I also dig into web stuff - mostly Svelte. Founder of [REFRACT](https://github.com/TheRefractCo) with p3rid0t!
 
 - ⚡  Created Taskie, [Transhef](https://github.com/shef3r/Transhef), [ferrpad](https://github.com/shef3r/ferrpad) and [UWStats](https://github.com/shef3r/UWStats)
 - 🫂  Contributor for popular repositiories, incl. [Ambie](https://github.com/jenius-apps/ambie)

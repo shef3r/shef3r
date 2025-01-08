@@ -1,5 +1,4 @@
 <div align="center">
-  <table><tr><td><b>development on pause</b></td></tr></table>
   <h1> Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
